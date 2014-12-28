@@ -1,0 +1,3 @@
+[submodule "vendor/SolarCore"]
+	path = vendor/SolarCore
+	url = https://github.com/solarphp/core.git
