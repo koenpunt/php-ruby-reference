@@ -1,0 +1,10 @@
+{
+    "name": "koenpunt/php-ruby-reference",
+    "authors": [
+        {
+            "name": "Koen Punt",
+            "email": "koen@koenpunt.nl"
+        }
+    ],
+    "require": {}
+}
