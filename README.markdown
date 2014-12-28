@@ -1,8 +1,8 @@
 # PHP to Ruby Reference
 
 This repository contains the source files used to build the 
-[reference](http://railsforphp.com/reference) section of the 
-[Rails for PHP Developers](http://railsforphp.com) website.  
+reference section of the 
+[Rails for PHP Developers](https://rails-for-php.herokuapp.com/) website.  
 
 When learning a new language, it's easy to get hung up on little things.  This
 reference aims to ease the Ruby learning curve for PHP developers by mapping 
@@ -17,7 +17,7 @@ the PHP manual.
 "Class/Object Information" is named `classobj` in the PHP manual and can be
 viewed at [http://php.net/classobj](http://php.net/classobj). This can be
 viewed in our reference at
-[http://railsforphp.com/reference/classobj](http://railsforphp.com/reference/classobj)
+[https://rails-for-php.herokuapp.com/classobj](https://rails-for-php.herokuapp.com/classobj)
 and the directory for the source files in this repository is also named
 `classobj`.
 
@@ -26,7 +26,7 @@ files whose filenames match the names of corresponding PHP functions.
 
 The file `classobj/call_user_func_array` contains the reference page for the
 `call_user_func_array` function and can be viewed in our reference at
-[http://railsforphp.com/reference/classobj](http://railsforphp.com/reference/classobj).
+[https://rails-for-php.herokuapp.com/classobj](https://rails-for-php.herokuapp.com/classobj).
 
 While our system is certainly less sophisticated than Docbook and the
 PhD rendering system used by the PHP manual, it's lightweight and gets 
